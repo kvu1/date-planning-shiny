@@ -1,1 +1,2 @@
 # date-planning-shiny
+For our data science project centered around interactivity, my classmate Melissa Zavez and I used several datasets (documentation of which appears in Sources tab of our app) to create an RShiny app that helps users plan a date night experience that is customizable through a series of user inputs. Our app was awarded Best Use of Interactivity by our classmates.
