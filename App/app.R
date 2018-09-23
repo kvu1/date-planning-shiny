@@ -274,7 +274,7 @@ server <- function(input, output){
   
   # text for narrative
   output$narrative <- renderText({
-    link1 <- "https://github.com/kvu1/Rose-is-a-Rose"
+    link1 <- "https://github.com/kvu1/Rose"
     link2 <- "http://nautil.us/issue/41/selection/the-problem-with-modern-romance-is-too-much-choice"
     narrative1 <- "While Kyle, one of our authors, has so far followed his relative's advice <a href='https://github.com/kvu1/Rose-is-a-Rose' target='_blank'> not to get married while in college</a>"
     narrative2 <- ", he has still forayed into the 21st century dating scene while at Swarthmore College. In the process of fumbling through multiple dates (more than one date has told him that he talks about `dplyr` too much), Kyle has reached an epiphany about modern romance: he and many of his peers have no idea what they're doing. Living in a world so saturated with options has led to a <a href='http://nautil.us/issue/41/selection/the-problem-with-modern-romance-is-too-much-choice' target='_blank'>paradox of choice for those seeking love.</a> Faced with so many potential partners to meet and so many activities to serve as the backdrops to our dates, a growing number of young adults become so intimidated that they resign to ceasing their pursuit of romance wholesale."
